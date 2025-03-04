@@ -1,0 +1,2 @@
+Запустите образ с помощью команды "docker run -it -exec  xmmcdocker/test_fin /bin/sh"
+Запустите веб-сервер apache2 с помощью команды "service apache2 start"
