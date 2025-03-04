@@ -1,4 +1,4 @@
-fROM ruby:3.1.2-alpine
+FROM ruby:3.1.2-alpine
 USER root
 RUN mkdir test_app
 RUN mkdir RoR_app
